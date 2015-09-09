@@ -173,7 +173,7 @@ The sections that follow provide additional configuration details for Mule agent
 
 At startup, the Mule agent reads its configuration from the file `$MULE_HOME/conf/mule-agent.yml`. You must manually add, then edit this file with your installation's configuration parameters.
 
-source,yaml]
+[source,yaml,linenums]
 ----
 muleInstanceUniqueId: validId
 organizationId: organizationId
